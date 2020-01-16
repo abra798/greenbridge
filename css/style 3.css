@@ -1,0 +1,96 @@
+
+
+body{
+    background-color:cyan;
+   }
+
+header{
+      background-color: green;
+      border:yellow 3px solid;
+      font-size:25px;
+      font-family: Arial;
+      color:yellow;
+      padding-left: 35px;
+}   
+
+aside{
+    background-image:url("../images/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 50px;
+    width:20%;
+    height:70%;
+    text-align: center;
+    line-height: 0.5cm;
+    font-family: Arial;
+    
+}  
+
+.container{
+    width:75%;
+    margin:auto;
+    overflow:hidden;
+    }
+    
+    
+    
+    header ul{
+             margin:0;
+             padding:0;
+    }
+    
+    
+    header{
+           background-color:green;
+           color:#ffffff;
+           padding-top:20px;
+           min-height:50px;
+           border-bottom:#ffffff 3px solid; 
+    }
+    
+    
+    header a{
+             color:#ffffff;
+             text-decoration:none;
+             text-transform:uppercase;
+             text-size:5px;
+    }
+    
+    
+    
+    header li{
+             float:left;
+             display:inline;
+             padding:0 20px 0 20px;
+    }
+    
+    
+    header #branding{
+                    float:left;
+    }
+    
+    header #branding h1{
+                      margin:0;
+    }
+    
+    header nav{
+              float:right;
+              margin-top:10px;
+    }
+    
+    header .highlight,header .current a{
+    color:yellow;
+    font-weight:bold;
+    }
+    
+    
+    header a:hover{
+    background-color:cyan;
+    font-weight:bold;
+    transition:0.7s all;
+
+
+
+
+      
+ 

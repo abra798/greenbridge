@@ -1,0 +1,35 @@
+
+
+body{
+    background:linear-gradient(0deg, yellow,green);
+}
+
+
+.this{
+    width:330px;
+    height:430px;
+    background:#0007;
+    border-radius: 18px;
+    border:red 2px dotted ;
+    color:#fff;
+    top:53%;
+    left:50%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+    padding:20px 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    }
+
+h1{
+    color:yellow;
+}
+
+h2{
+    color:white;
+    font-family:arial;
+    font-weight: lighter;
+    font-size:14px;
+    line-height:1.5;
+}
